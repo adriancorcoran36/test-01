@@ -7,4 +7,4 @@ So here we are making a commit on a new branch
 
 Final change on master
 
-Now we've deployed on Netlify
+Now we've deployed on Netlify.
